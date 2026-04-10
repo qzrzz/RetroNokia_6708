@@ -4,6 +4,8 @@
 
 诺基亚 6708 的刷机工具和固件
 
+下载 https://github.com/qzrzz/RetroNokia_6708/releases
+
 ```
 6708 RM-139.rar                      6708_APAC V3.3.0.part14.rar
 6708_APAC V3.3.0.part01.rar          6708_APAC V3.3.0.part15.rar
