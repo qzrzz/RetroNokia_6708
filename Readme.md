@@ -1,5 +1,7 @@
 # Retro Nokia 6708 Repair Tool
-<img width="292"   src="https://github.com/user-attachments/assets/7bd6d759-41ec-494e-9a5f-f1d694c21114" />
+
+<img width="292"  src="https://github.com/user-attachments/assets/7bd6d759-41ec-494e-9a5f-f1d694c21114" />
+
 诺基亚 6708 的刷机工具和固件
 
 ```
